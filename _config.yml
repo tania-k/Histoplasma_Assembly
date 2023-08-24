@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Histoplasma species Assembly and Annotation
+logo: /assets/img/histoplasma.png
+description: This github page breaks down the Histoplasma datasets, origin of collection, sequencing information, Genome assembly and annotation pipelines used and results.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
